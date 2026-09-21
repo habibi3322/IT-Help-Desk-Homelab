@@ -85,4 +85,15 @@ I used `ipconfig` to identify the workstation's IPv4 address, subnet mask, and d
 
 ## Evidence
 
-Screenshots demonstrating the completed workstation configuration and command-line verification will be included below.
+### Workstation Identity and Network Verification
+
+The following screenshot verifies the configured workstation name, logged-in administrator account, and TCP/IP configuration.
+
+![Windows 11 workstation identity and network verification](01-system-network-verification.png)
+
+**Verified configuration:**
+- Hostname: `HELPDESK-WIN11`
+- Logged-in account: `helpdesk-win11\itadmin`
+- IPv4 address: `192.168.64.2`
+- Subnet mask: `255.255.255.0`
+- Default gateway: `192.168.64.1`
