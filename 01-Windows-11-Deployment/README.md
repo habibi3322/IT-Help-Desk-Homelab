@@ -9,7 +9,7 @@ Deploy and configure a Windows 11 Pro virtual workstation that will serve as the
 - Host OS: macOS
 - Virtualization Platform: UTM
 - Guest OS: Windows 11 Pro ARM64
-- Workstation Name: `HELPDESK-WIN11`
+- Workstation Name: HELPDESK-WIN11
 - Administrator Account: `ITAdmin`
 - Virtual Disk: 64 GB
 
